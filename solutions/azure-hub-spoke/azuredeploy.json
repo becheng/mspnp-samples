@@ -79,7 +79,7 @@
                 "publicIPAddressName": "pip-bastion",
                 "subnetName": "AzureBastionSubnet",
                 "nsgName": "nsg-hub-bastion",
-                "subnetPrefix": "10.0.1.0/29"
+                "subnetPrefix": "10.0.1.0/26"
             }
         },
         "azureFirewall": {
